@@ -2,6 +2,9 @@
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/binder-examples/python-conda_pip/master?filepath=index.ipynb)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yychuang/using_pythreejs/HEAD?urlpath=lab)
+
+
 If you use `environment.yml`, then Binder will use a Miniconda distribution
 to install your packages. However, you may still want to use `pip`. In
 this case, you should **not** use a `requirements.txt` file, but instead use
