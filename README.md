@@ -1,8 +1,8 @@
 # Using conda with pip in the same build
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/binder-examples/python-conda_pip/master?filepath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yychuang/using_pythreejs/HEAD?filepath=index.ipynb)  (notebook)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yychuang/using_pythreejs/HEAD?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yychuang/using_pythreejs/HEAD?urlpath=lab) (lab)
 
 
 If you use `environment.yml`, then Binder will use a Miniconda distribution
