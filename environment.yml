@@ -5,6 +5,8 @@ dependencies:
   - python
   - numpy
   - scipy
+  - ipywidgets
+  - widgetsnbextension
   - pythreejs
   - pip
   - pip:
