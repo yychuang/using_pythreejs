@@ -12,3 +12,5 @@ dependencies:
     - sphinx-gallery
     - pandas
     - matplotlib
+    - fortecubeview
+    
