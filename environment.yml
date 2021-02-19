@@ -4,10 +4,10 @@ channels:
 dependencies:
   - python
   - numpy
+  - pythreejs
   - pip
   - pip:
     - nbgitpuller
     - sphinx-gallery
     - pandas
     - matplotlib
-    - pythreejs
