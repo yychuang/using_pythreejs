@@ -1,4 +1,4 @@
-# Using conda with pip in the same build
+# Using pythreejs
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yychuang/using_pythreejs/HEAD?filepath=index.ipynb)  (notebook)
 
