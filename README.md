@@ -14,6 +14,4 @@ to construct your `environment.yml` file to accomplish this.
 
 Working
 * Notebook 
-
-
-Lab
+* Lab
