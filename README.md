@@ -1,4 +1,4 @@
-# Using pythreejs
+# Using PSi4-ForteCubeView
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yychuang/using_pythreejs/HEAD?filepath=index.ipynb)  (notebook) 
 
